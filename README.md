@@ -1,3 +1,4 @@
+[![Downloads](https://static.pepy.tech/badge/hyphenfrac)](https://pepy.tech/project/hyphenfrac)
 # hyphenfrac
 Uses a hyphen-minus character to visualize a fraction.
 ## Usage
